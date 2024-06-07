@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Movie App</string>
+        <array name="com_google_android_gms_fonts_certs_files">
+            <item>@array/com_google_android_gms_fonts_certs_dev</item>
+            <item>@array/com_google_android_gms_fonts_certs_prod</item>
+        </array>
+    <string name="loading_failed">Nemate interneta!</string>
+    <string name="l2">Vratite se nazad i pokušajte ponovno</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="mars_photo">Mars photo</string>
+    <string name="placeholder_success">Placeholder text</string>
+    <string name="movie">Film</string>
+    <string name="tv_show">Serija</string>
+    <string name="genre">Žanr</string>
+    <string name="year_of_release">Godina izlaska</string>
+    <string name="error_message">Nažalost, ne postoji rezultat takve pretrage</string>
+    <string name="Horror">Horor</string>
+    <string name="Action">Akcija</string>
+    <string name="Comedy">Komedija</string>
+    <string name="Drama">Drama</string>
+    <string name="Thriller">Triler</string>
+    <string name="Romance">Romansa</string>
+    <string name="Fantasy">Fantazija</string>
+    <string name="Mystery">Misterija</string>
+    <string name="Adventure">Avantura</string>
+    <string name="Animation">Animacija</string>
+    <string name="Crime">Kriminalistički</string>
+    <string name="Documentary">Dokumentarni</string>
+    <string name="Family">Porodični</string>
+    <string name="History">Istorija</string>
+    <string name="Music">Muzika</string>
+    <string name="sf">Naučna fantastika</string>
+    <string name="tv_movie">TV film</string>
+    <string name="War">Ratni</string>
+    <string name="Western">Western</string>
+    <string name="Action_and_Adventure">Akcija i avantura</string>
+    <string name="Kids">Dječje</string>
+    <string name="News">Vijesti</string>
+    <string name="Reality">Reality</string>
+    <string name="Sci_Fi_and_Fantasy">Naučna fantastika i fantazija</string>
+    <string name="Soap">Serija</string>
+    <string name="Talk">Talk show</string>
+    <string name="War_and_Politics">Rat i politika</string>
+    <string name="content_type">Type of content</string>
+    <string name="order_cupcakes">Order Cupcakes</string>
+    <string name="cancel">Otkaži</string>
+    <string name="next">Naprijed</string>
+    <string name="choose_pickup_date">Choose Pickup Date</string>
+    <string name="summary">Summary</string>
+    <string name="send">Send Order to Another App</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">Chosen movie:</string>
+    <string name="order_details">Type of content: %1$s \nGenre: %2$s \nYear of release: %3$s \n\nThank you!</string>
+    <string name="back_button">Nazad</string>
+    <string name="man_sitting_text">Zaronite u svijet kinematografije</string>
+    <string name="netflix_text">Otključajte beskrajne mogućnosti zabave</string>
+    <string name="girls_text">Podijelite magiju filmova s drugima</string>
+    <string name="all">Pregled</string>
+</resources>
